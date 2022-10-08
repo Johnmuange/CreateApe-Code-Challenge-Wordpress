@@ -6,4 +6,4 @@ Use the below credentials to login to Wordpress Admin Panel
     Username: admin
     Password: Password
 
-Find the static version here - https://gamebench.netlify.app
+Find the static version here - https://gamebench.netlify.app (Note: Some dynamic wordpress elements/functions won't work on the static version)
